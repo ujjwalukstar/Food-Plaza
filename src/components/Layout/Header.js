@@ -46,6 +46,9 @@ const Header = () => {
         <li>
           <NavLink to={"/contact"}>Contact</NavLink>
         </li>
+        <li>
+          <NavLink to={"/signin"}>Sign-In</NavLink>
+        </li>
       </ul>
     </Box>
   );
@@ -89,6 +92,9 @@ const Header = () => {
                 </li>
                 <li>
                   <NavLink to={"/contact"}>Contact</NavLink>
+                </li>
+                <li>
+                  <NavLink to={"/signin"}>Sign-In</NavLink>
                 </li>
               </ul>
             </Box>
