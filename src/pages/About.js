@@ -28,7 +28,7 @@ const About = () => {
       >
         <Typography variant="h4">Welcome To My Resturant</Typography>
         <p>
-        At Food-Plaza, we're more than just a place to eat; we're a culinary experience that combines passion, creativity, and flavor to provide you with unforgettable moments. Nestled in the heart of [Your City], we've been serving up delectable dishes since [Year Established], and we're thrilled to share our culinary journey with you.
+        At Food-Plaza, we're more than just a place to eat; we're a culinary experience that combines passion, creativity, and flavor to provide you with unforgettable moments. Nestled in the heart of Rajpura, we've been serving up delectable dishes since 2023, and we're thrilled to share our culinary journey with you.
 
         Our Philosophy:
         At Food-Plaza, we believe in the power of food to bring people together. Our dishes are crafted with love, using locally sourced, fresh ingredients to ensure every bite is a celebration of taste. Whether you're a first-time visitor or a regular patron, we aim to make every dining experience a memorable one.
