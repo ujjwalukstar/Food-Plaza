@@ -1,4 +1,4 @@
-import Dosa from "../images/dosa.jpg";
+import lollipop from "../images/lollipop.jpg";
 import Chola from "../images/chhola.jpg";
 import Idli from "../images/idli.jpg";
 import MasalaDosa from "../images/masala.jpg";
@@ -7,11 +7,11 @@ import Gujrati from "../images/gujrati.jpeg";
 
 export const MenuList = [
   {
-    name: "Dosa",
+    name: "Chicken Lollipop ",
     description:
-      "Why settle for plain dosa when you can have a masala dosa? 😜🍴 #SpiceUpYourLife.",
-    image: Dosa,
-    price: 200,
+      "Unleash your inner foodie with our chicken lollipops!",
+    image: lollipop,
+    price: 300,
   },
   {
     name: "Chola",
@@ -30,7 +30,7 @@ export const MenuList = [
   {
     name: "Masala Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Why settle for plain dosa when you can have a masala dosa? 😜🍴 #SpiceUpYourLife.",
     image: MasalaDosa,
     price: 100,
   },
