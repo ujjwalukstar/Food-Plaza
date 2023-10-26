@@ -11,7 +11,7 @@ export const MenuList = [
     description:
       "Unleash your inner foodie with our chicken lollipops!",
     image: lollipop,
-    price: 300,
+    price: 320,
   },
   {
     name: "Chola",
@@ -25,27 +25,27 @@ export const MenuList = [
     description:
       "Idlis are a celebration of South Indian culinary excellence!",
     image: Idli,
-    price: 300,
+    price: 120,
   },
   {
     name: "Masala Dosa",
     description:
       "Why settle for plain dosa when you can have a masala dosa? 😜🍴 #SpiceUpYourLife.",
     image: MasalaDosa,
-    price: 100,
+    price: 99,
   },
   {
     name: "Paneer",
     description:
       "Don't worry, be paneer-y! Life is always better with paneer.",
     image: Paneer,
-    price: 400,
+    price: 250,
   },
   {
     name: "Gujrati",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Wherever I go, as long as I get a hot vegetable dish, I am okay. If I am in Gujarat, I have Gujarati food. If it's Shillong, it's northeastern. - Author: A. P. J. Abdul Kalam",
     image: Gujrati,
-    price: 500,
+    price: 230,
   },
 ];
