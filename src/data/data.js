@@ -9,7 +9,7 @@ export const MenuList = [
   {
     name: "Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Why settle for plain dosa when you can have a masala dosa? 😜🍴 #SpiceUpYourLife",
     image: Dosa,
     price: 200,
   },

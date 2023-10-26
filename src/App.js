@@ -4,9 +4,10 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Menu from "./pages/Menu";
 import Pagenotfound from "./pages/Pagenotfound";
-import signin from "./pages/signin";
+
 function App() {
   return (
+  
     <div>
       <BrowserRouter>
         <Routes>
@@ -15,10 +16,12 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/menu" element={<Menu />} />
           <Route path="*" element={<Pagenotfound />} />
-          <Route path="/signin" element={<signin/>} />
         </Routes>
       </BrowserRouter>
     </div>
+    
+   
+  
   );
 }
 
