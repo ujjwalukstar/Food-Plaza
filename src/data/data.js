@@ -37,7 +37,7 @@ export const MenuList = [
   {
     name: "Paneer",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Don't worry, be paneer-y! Life is always better with paneer.",
     image: Paneer,
     price: 400,
   },
