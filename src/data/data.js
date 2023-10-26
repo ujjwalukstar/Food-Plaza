@@ -23,7 +23,7 @@ export const MenuList = [
   {
     name: "Idli Sambhar",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Idlis are a celebration of South Indian culinary excellence!",
     image: Idli,
     price: 300,
   },
