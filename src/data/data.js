@@ -9,14 +9,14 @@ export const MenuList = [
   {
     name: "Dosa",
     description:
-      "Why settle for plain dosa when you can have a masala dosa? 😜🍴 #SpiceUpYourLife",
+      "Why settle for plain dosa when you can have a masala dosa? 😜🍴 #SpiceUpYourLife.",
     image: Dosa,
     price: 200,
   },
   {
     name: "Chola",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A little bit of chola in my life, a little bit of hustling by my side.",
     image: Chola,
     price: 250,
   },
